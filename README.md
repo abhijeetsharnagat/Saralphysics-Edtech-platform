@@ -1,6 +1,4 @@
-Certainly! Here's a stylized version with some formatting and aesthetic improvements:
 
-```markdown
 # 🌟 Saral Physics: Online Learning Platform
 
 This repository contains details about "Saral Physics", an exceptional online learning platform crafted with the powerful MERN stack. The platform, hosted on AWS, was meticulously designed to offer top-notch physics education to students globally.
