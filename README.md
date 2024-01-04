@@ -1,7 +1,7 @@
 
 # 🌟 Saral Physics: Online Learning Platform
 
-This repository contains details about "Saral Physics", an exceptional online learning platform crafted with the powerful MERN stack. The platform, hosted on AWS, was meticulously designed to offer top-notch physics education to students globally.
+This repository contains details about "Saral Physics", an exceptional online learning platform crafted with the powerful MERN stack. The platform, hosted on AWS, was meticulously designed to offer top-notch physics education to students globally
 
 ## 🚀 [Live Website: Saral Physics](https://www.saralphysics.com/)
 
