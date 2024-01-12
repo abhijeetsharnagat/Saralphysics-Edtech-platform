@@ -15,7 +15,7 @@ This repository contains details about "Saral Physics", an exceptional online le
 
 ## 🌐 Project Overview
 
-"Saral Physics" delivers an enriching learning experience, seamlessly integrating a secure and user-friendly payment gateway. This allows for effortless enrollment in courses and access to premium content. The project took shape during my impactful summer internship at Quantem JEE Academy, guided by Mr. Ravi Bhushan, an IIT Delhi alumnus. The collaboration involved a talented team of developers, designers, and content creators.
+"Saral Physics" delivers an enriching learning experience, seamlessly integrating a secure and user-friendly payment gateway. This allows for effortless enrollment in courses and access to premium content. The project took shape during my impactful summer internship at Quantem JEE Academy guided by Mr. Ravi Bhushan, an IIT Delhi alumnus. The collaboration involved a talented team of developers, designers, and content creators.
 
 ## 🌈 Live Website
 
